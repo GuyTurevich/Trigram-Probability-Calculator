@@ -1,0 +1,72 @@
+Here are 10 examples of word pairs with their top 5 probability third words.
+In most cases the probabilities make sense, especially when considering the source of the corpus, which is books.
+
+
+A Black Bear	3.704213000542141E-9
+A Black Response	3.491537636712351E-9
+A Black Watch	3.491537636712351E-9
+A Black Church	2.895352954172571E-9
+A Black Forest	2.5117186129633786E-9
+
+
+Conflicts of Capital	6.338203894861892E-8
+Conflicts of economic	6.13727715878258E-9
+Conflicts of Norms	6.13727715878258E-9
+Conflicts of Labour	5.971798692874547E-9
+Conflicts of Authority	5.112512845508403E-9
+
+
+Danny had used	2.852324446946868E-9
+Danny had felt	2.852324446946868E-9
+Danny had read	2.852324446946868E-9
+Danny had finally	2.002532919989762E-9
+Danny had in	2.002532919989762E-9
+
+
+Universities are supposed	5.498697535409748E-9
+Universities are Failing	2.895352954172571E-9
+Universities are impoverished	2.895352954172571E-9
+Universities are complex	2.4691079576317724E-9
+Universities are for	2.257211804048386E-9
+
+
+Write your description	9.946848388889275E-9
+Write your reasons	6.226157571870698E-9
+Write your clues	4.003305609129977E-9
+Write your favorite	4.003305609129977E-9
+Write your responses	3.001995186656624E-8
+
+
+Potential of the	5.316400185844516E-7
+Potential of Chemicals	4.772170189266197E-9
+Potential of Marihuana	4.772170189266197E-9
+Potential of Drugs	2.895352954172571E-9
+Potential of Land	2.895352954172571E-9
+
+
+acceptable social role	9.218273251905004E-9
+acceptable social standing	2.257211804048386E-9
+acceptable social mores	2.257211804048386E-9
+acceptable social limits	2.257211804048386E-9
+acceptable social boundaries	2.002532919989762E-9
+
+
+Philosophy which deals	5.455856333519887E-9
+Philosophy which says	3.1073035305974445E-9
+Philosophy which does	2.7661687261890554E-9
+Philosophy which she	1.5819309006226503E-9
+Philosophy which looks	1.5397573505165377E-9
+
+
+Should you place	9.946848388889275E-9
+Should you treat	9.353796510517264E-9
+Should you try	7.686700655211658E-8
+Should you care	6.97682081086304E-8
+Should you refer	6.951594175709702E-9
+
+
+The African artist	9.13439460751387E-9
+The African Economy	9.049134368389981E-9
+The African nation	8.021113599469603E-9
+The African country	8.021113599469603E-9
+The African Union	7.22412224208544E-8
